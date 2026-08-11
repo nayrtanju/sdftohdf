@@ -1,7 +1,0 @@
-{
-  "python_syntax": "PASS",
-  "sdf_parser_regression": "PASS",
-  "detected_channels": 22,
-  "data_start": 8556,
-  "final_atfx_runtime_test": "Not executed in this sandbox because Java/openATFX and asammdf are not installed. The app uses Eclipse ConvertMain/writeATFXHeader at runtime."
-}
