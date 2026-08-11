@@ -1,0 +1,7 @@
+{
+  "syntax": "PASS",
+  "sdf_parser_regression": "PASS",
+  "channels": 22,
+  "java_required": false,
+  "manual_setup_required": false
+}
