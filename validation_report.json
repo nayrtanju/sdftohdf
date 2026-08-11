@@ -1,0 +1,12 @@
+{
+  "source_file": "240825154-20%-100% 5bar.sdf",
+  "sdf_parser_validation": "PASS",
+  "detected_channels": 22,
+  "data_start_bytes": 8556,
+  "raw_tacho_samples": 27275,
+  "tacho1_samples": 1892511,
+  "acoustic_rate_hz": 51200.00114440921,
+  "ehps_rate_hz": 200.00000447034847,
+  "python_syntax_check": "PASS",
+  "mf4_runtime_check_in_this_environment": "NOT RUN: asammdf is not installed in this sandbox and external package installation is blocked here. The app performs a full create->reopen->compare verification automatically in the target environment after pip install."
+}
