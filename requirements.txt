@@ -1,4 +1,0 @@
-streamlit>=1.36
-numpy>=1.26
-pandas>=2.2
-asammdf==8.8.23
